@@ -1,0 +1,61 @@
+header {
+    background-color: rgb(136, 255, 127);
+    padding: 10px;
+    text-align: center;
+}
+nav {
+    background-color: khaki;
+    padding: 10px;
+    text-align: center;
+}
+.Temario {
+    display: flex;
+}
+section {
+    flex: 1;
+    background-color: deepskyblue;
+}
+aside {
+    width: 30%;
+    background-color: rgb(136, 255, 127);
+}
+footer {
+    background-color: khaki;
+    padding: 10px;
+    text-align: center;
+}
+.Temario:after {
+    content: "";
+    display: block;
+    clear: both;
+}header {
+    background-color: rgb(136, 255, 127);
+    padding: 10px;
+    text-align: center;
+}
+nav {
+    background-color: khaki;
+    padding: 10px;
+    text-align: center;
+}
+.Temario {
+    display: flex;
+}
+section {
+    flex: 1;
+    background-color: deepskyblue;
+}
+aside {
+    width: 30%;
+    background-color: rgb(136, 255, 127);
+}
+footer {
+    background-color: khaki;
+    padding: 10px;
+    text-align: center;
+}
+.Temario:after {
+    content: "";
+    display: block;
+    clear: both;
+}
